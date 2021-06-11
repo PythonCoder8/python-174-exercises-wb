@@ -1,0 +1,8 @@
+recipentName = input('Enter your name: ')
+homeAddress = input('Enter your home address: ')
+streetName = input('Enter your street name: ')
+city = input('Enter the name of the city that you live in: ')
+province = input('Enter the name of the province/state that you live in: ')
+postalCode = input('Enter your postal code/zip code: ')
+country = input('Enter the country that you live in: ')
+print(f'\nMailing address:\n\n{recipentName}\n{homeAddress}{ streetName}\n{city} {province} {postalCode}\n{country}')
