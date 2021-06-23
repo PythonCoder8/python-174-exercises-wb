@@ -12,7 +12,7 @@ are displayed using two decimal places.
 try:
     cost = float(input('How much did you pay at the restaurant (without tax or tip)?: $'))
 except ValueError:
-    print('You didn\'t enter a number or decimal for the cost like you should\'ve.')
+    print('You didn\'t enter an integer or decimal for the cost like you should\'ve.')
 
 total_cost = (0.31 * float_cost) + float_cost
 print(f'The total cost is {total_cost}.')
