@@ -2,6 +2,6 @@
 
 Solutions for "The Python Workbook: A Brief Introduction with Exercises and Solutions"
 
-Download the pdf or read the pdf from this link:
+Download the pdf or read the pdf from this link (you can only download the book if you're signed in, it's free):
 
 https://www.dropbox.com/s/kr9503b6nysfezd/The%20Python%20Workbook_%20A%20Brief%20Introduction%20with%20Exercises%20and%20Solutions.pdf?dl=0 
