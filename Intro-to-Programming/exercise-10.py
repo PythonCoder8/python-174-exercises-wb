@@ -12,7 +12,7 @@ try:
     int_a = int(input('Enter an integer: '))
     int_b = int(input('Enter another integer: '))
 except:
-    sys.exit('Both of them weren\'t integers.')
+    sys.exit('Invalid input. Both values of input weren\'t integers.')
 
 print(f'The sum of both numbers is {int_a + int_b}')
 print(f'When subtracting the second number from the first the difference is {int_a - int_b}')
